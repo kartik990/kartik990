@@ -4,7 +4,7 @@
 
  🔭 I’m currently working as a Full Stack Developer at Globeia. <br>
  🌱 I’m working with tech stack: NextJs, Typescript, Strapi, Postgres, AWS, Docker. <br>
- 🎓 I had graduated from IIIT Gwalior in 2024 with Integrated Post Graduate Dual Degree in Btech + MBA <br>
+ 🎓 I had graduated from IIIT Gwalior in 2024 with Integrated Post Graduate Dual Degree in Btech + MBA. <br>
  📫 You can contact me at rai.kartik99@gmail.com <br>
  ⚡ Check out my porfolio website at [kartik-portfolio](https://kartik-rai.onrender.com/) <br>
  
