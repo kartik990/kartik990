@@ -3,7 +3,7 @@
  ### `Digital Craftsman (Developer/Designer/Creator)`   
 
  🔭 I’m currently working as a Full Stack Developer at Globeia. <br>
- 🌱 I’m working with tech stack: NextJs, Typescript, Strapi, Postgres, AWS, Docker <br>
+ 🌱 I’m working with tech stack: NextJs, Typescript, Strapi, Postgres, AWS, Docker. <br>
  📫 You can contact me at rai.kartik99@gmail.com <br>
  ⚡ Check out my porfolio website at [kartik-portfolio](https://kartik-rai.onrender.com/) <br>
  
