@@ -1,6 +1,6 @@
 # 👋 Hi! It's kartik  
  
- ### `Digital Craftsman (Developer/Designer/Creator)`   
+ ### `Digital Craftsman`   
 
  🔭 I’m currently working as a Full Stack Developer at Globeia. <br>
  🌱 I’m working with tech stack: NextJs, Typescript, Strapi, Postgres, AWS, Docker. <br>
